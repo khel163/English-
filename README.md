@@ -33,11 +33,11 @@
     </header>
 
     <section class="form-section">
-        <h2>Add doner</h2>
+        <h2>चंदा</h2>
         <form id="donationForm">
-            <input type="text" id="name" placeholder="Donor Name" required />
-            <input type="number" id="amount" placeholder="Amount (₹)" required />
-            <input type="date" id="date" required />
+            <input type="text" id="name" placeholder="नाम" required />
+            <input type="number" id="amount" placeholder="रुपए (₹)" required />
+            <input type="date" id="दिनांक" required />
             <button type="submit">Add</button>
         </form>
     </section>
