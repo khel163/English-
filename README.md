@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -28,11 +29,11 @@
 </head>
 <body>
     <header>
-        <h1>Village Committee | Donation & Expense Register dhanpuri</h1>
+        <h1>ग्राम धनपुरी चंदा रजिस्टार</h1>
     </header>
 
     <section class="form-section">
-        <h2>Add Donation</h2>
+        <h2>Add doner</h2>
         <form id="donationForm">
             <input type="text" id="name" placeholder="Donor Name" required />
             <input type="number" id="amount" placeholder="Amount (₹)" required />
